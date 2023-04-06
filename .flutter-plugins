@@ -1,0 +1,23 @@
+# This is a generated file; do not edit or check into version control.
+flutter_plugin_android_lifecycle=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-2.0.9/
+fluttertoast=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-8.2.1/
+image_picker=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/image_picker-0.8.7/
+image_picker_android=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/image_picker_android-0.8.6+6/
+image_picker_for_web=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/image_picker_for_web-2.1.12/
+image_picker_ios=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/image_picker_ios-0.8.7+2/
+path_provider=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/path_provider-2.0.14/
+path_provider_android=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/path_provider_android-2.0.24/
+path_provider_foundation=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/path_provider_foundation-2.2.0/
+path_provider_linux=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/path_provider_linux-2.1.10/
+path_provider_windows=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/path_provider_windows-2.1.5/
+share_plus=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/share_plus-6.3.1/
+shared_preferences=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-2.1.0/
+shared_preferences_android=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_android-2.1.0/
+shared_preferences_foundation=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_foundation-2.2.0/
+shared_preferences_linux=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_linux-2.2.0/
+shared_preferences_web=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_web-2.1.0/
+shared_preferences_windows=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_windows-2.2.0/
+sqflite=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.2.6/
+url_launcher_linux=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_linux-3.0.4/
+url_launcher_web=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_web-2.0.16/
+url_launcher_windows=/Users/wangguanyang/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_windows-3.0.5/

@@ -8,7 +8,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hook_up_rent/application.dart';
-
 import 'package:hook_up_rent/main.dart';
 
 void main() {

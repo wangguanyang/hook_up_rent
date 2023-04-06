@@ -12,6 +12,7 @@ class AuthModel extends Model {
   late UserInfo _userInfo;
   UserInfo get userInfo => _userInfo;
 
+  // ignore: unnecessary_type_check
   bool get isLogin => _token is String && _token.isNotEmpty;
   void initApp(BuildContext context) async {
     Store store = await Store.getInstance();
