@@ -13,3 +13,4 @@
 *.plist linguist-language=Flutter 
 *.swift linguist-language=Flutter 
 *.json linguist-language=Flutter 
+*.object-c linguist-language=Flutter 
