@@ -1,0 +1,3 @@
+*.h linguist-language=Flutter
+*.m linguist-language=Flutter
+*.dart linguist-language=Flutter
