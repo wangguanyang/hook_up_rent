@@ -1,3 +1,15 @@
 *.h linguist-language=Flutter
 *.m linguist-language=Flutter
 *.dart linguist-language=Flutter
+*.md linguist-language=Flutter 
+*.yml linguist-language=Flutter 
+*.html linguist-language=Flutter 
+*.js linguist-language=Flutter 
+*.xml linguist-language=Flutter
+*.css linguist-language=Flutter 
+*.sql linguist-language=Flutter
+*.uml linguist-language=Flutter 
+*.cmd linguist-language=Flutter 
+*.plist linguist-language=Flutter 
+*.swift linguist-language=Flutter 
+*.json linguist-language=Flutter 
